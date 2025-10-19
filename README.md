@@ -139,7 +139,7 @@ MIT License
 
 ## Author
 
-Your Name - [your-github-username]
+Mayur Karve - [mayur5689]
 \`\`\`
 
 **Save and exit**: `Ctrl+X`, `Y`, `Enter`
