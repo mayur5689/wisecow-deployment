@@ -1,0 +1,6 @@
+.git
+.github
+*.md
+.gitignore
+k8s/
+.DS_Store
