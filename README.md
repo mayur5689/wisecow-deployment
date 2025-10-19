@@ -32,7 +32,7 @@ Fortune-telling web application deployed on Kubernetes with automated CI/CD pipe
 
 ### 1. Clone Repository
 \`\`\`bash
-git clone https://github.com/YOUR-USERNAME/wisecow-deployment.git
+git clone https://github.com/mayur5689/wisecow-deployment.git
 cd wisecow-deployment
 \`\`\`
 
